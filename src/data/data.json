@@ -1,23 +1,182 @@
 [
     {
-      "name": "Rajeev Sharma",
-      "dob": "1986-02-12",
-      "address": "1001 Noble St Ste 1",
-      "city": "Fairbanks",
-      "state": "AK",
-      "zip": "99701",
-      "email": "rajeevsharma@gmail.com",
-      "phone": "2582528582"
+        "name": "Rajeev Sharma",
+        "dob": "1986-02-12",
+        "address": "1001 Noble St Ste 1",
+        "city": "Fairbanks",
+        "state": "AK",
+        "zip": "99701",
+        "email": "rajeevsharma@gmail.com",
+        "phone": "2582528582"
     },
     {
-      "name": "Eesha Sharma",
-      "dob": "1995-07-04",
-      "address": "4821 Ridge Top Cir",
-      "city": "Anchorage",
-      "state": "AK",
-      "zip": "99508",
-      "email": "eeshasharma@gmail.com",
-      "phone": "2582528583"
+        "name": "Eesha Sharma",
+        "dob": "1995-07-04",
+        "address": "4821 Ridge Top Cir",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99508",
+        "email": "eeshasharma@gmail.com",
+        "phone": "2582528583"
+    },
+    {
+        "name": "Aarav Singh",
+        "dob": "1992-03-15",
+        "address": "1234 Elm St",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801",
+        "email": "aaravsingh@gmail.com",
+        "phone": "2582528584"
+    },
+    {
+        "name": "Priya Patel",
+        "dob": "1990-08-22",
+        "address": "2345 Oak Ave",
+        "city": "Sitka",
+        "state": "AK",
+        "zip": "99835",
+        "email": "priyapatel@gmail.com",
+        "phone": "2582528585"
+    },
+    {
+        "name": "Ananya Das",
+        "dob": "1998-11-11",
+        "address": "5678 Maple Dr",
+        "city": "Kodiak",
+        "state": "AK",
+        "zip": "99615",
+        "email": "ananyadas@gmail.com",
+        "phone": "2582528586"
+    },
+    {
+        "name": "Rahul Verma",
+        "dob": "1993-06-18",
+        "address": "3456 Birch Blvd",
+        "city": "Fairbanks",
+        "state": "AK",
+        "zip": "99712",
+        "email": "rahulverma@gmail.com",
+        "phone": "2582528587"
+    },
+    {
+        "name": "Sanya Gupta",
+        "dob": "1997-09-09",
+        "address": "786 Pine St",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99515",
+        "email": "sanyagupta@gmail.com",
+        "phone": "2582528588"
+    },
+    {
+        "name": "Kumar Reddy",
+        "dob": "1988-05-30",
+        "address": "5679 Maple Ct",
+        "city": "Barrow",
+        "state": "AK",
+        "zip": "99723",
+        "email": "kumarreddy@gmail.com",
+        "phone": "2582528589"
+    },
+    {
+        "name": "Maya Iyer",
+        "dob": "1994-10-12",
+        "address": "2345 Willow St",
+        "city": "Homer",
+        "state": "AK",
+        "zip": "99603",
+        "email": "mayaeyer@gmail.com",
+        "phone": "2582528590"
+    },
+    {
+        "name": "Rajiv Mehta",
+        "dob": "1991-12-05",
+        "address": "9010 Pine St",
+        "city": "Anchorage",
+        "state": "AK",
+        "zip": "99503",
+        "email": "rajivmehta@gmail.com",
+        "phone": "2582528591"
+    },
+    {
+        "name": "Riya Kapoor",
+        "dob": "1996-01-25",
+        "address": "123 Main St",
+        "city": "Palmer",
+        "state": "AK",
+        "zip": "99645",
+        "email": "riyakapoor@gmail.com",
+        "phone": "2582528592"
+    },
+    {
+        "name": "Neha Nair",
+        "dob": "1992-02-20",
+        "address": "5678 Elm St",
+        "city": "Juneau",
+        "state": "AK",
+        "zip": "99801",
+        "email": "nehanair@gmail.com",
+        "phone": "2582528593"
+    },
+    {
+        "name": "Anil Kumar",
+        "dob": "1990-07-10",
+        "address": "1234 Maple Ave",
+        "city": "Fairbanks",
+        "state": "AK",
+        "zip": "99707",
+        "email": "anilkumar@gmail.com",
+        "phone": "2582528594"
+    },
+    {
+        "name": "Aditi Sharma",
+        "dob": "1994-04-14",
+        "address": "567 Pine Rd",
+        "city": "Nome",
+        "state": "AK",
+        "zip": "99762",
+        "email": "aditisharma@gmail.com",
+        "phone": "2582528595"
+    },
+    {
+        "name": "Mohan Raj",
+        "dob": "1987-11-02",
+        "address": "342 Birch Rd",
+        "city": "Seward",
+        "state": "AK",
+        "zip": "99664",
+        "email": "mohanraj@gmail.com",
+        "phone": "2582528596"
+    },
+    {
+        "name": "Alisha Khan",
+        "dob": "1999-03-19",
+        "address": "7890 Ridge Ave",
+        "city": "Dillingham",
+        "state": "AK",
+        "zip": "99576",
+        "email": "alishakhan@gmail.com",
+        "phone": "2582528597"
+    },
+    {
+        "name": "Vikram Desai",
+        "dob": "1991-08-23",
+        "address": "2347 Cedar St",
+        "city": "Kenai",
+        "state": "AK",
+        "zip": "99611",
+        "email": "vikramdesai@gmail.com",
+        "phone": "2582528598"
+    },
+    {
+        "name": "Siddhi Raj",
+        "dob": "1998-12-08",
+        "address": "5672 Birch Ct",
+        "city": "Unalaska",
+        "state": "AK",
+        "zip": "99685",
+        "email": "siddhiraj@gmail.com",
+        "phone": "2582528599"
     }
-  ]
-  
+]

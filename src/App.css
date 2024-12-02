@@ -4,3 +4,19 @@
   padding: 1rem;
 }
 
+input[type='radio'] {
+  box-sizing: border-box;
+  appearance: none;
+  background: white;
+  outline: 2px solid gray;
+  border: 3px solid white;
+  width: 16px;
+  height: 16px;
+}
+
+input[type='radio']:checked {
+  background: rgb(59 130 246);
+  outline: 2px solid rgb(59 130 246);
+
+}
+
