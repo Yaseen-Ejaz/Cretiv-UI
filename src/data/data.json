@@ -1,5 +1,26 @@
 [
     {
+        "name": "John Doe",
+        "dob": "1990-01-01",
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890",
+        "address": "123 Main St",
+        "city": "Toronto",
+        "state": "ON",
+        "zipcode": "M1A 1A1"
+      },
+      {
+        "name": "Jane Smith",
+        "dob": "1985-05-15",
+        "email": "janesmith@example.com",
+        "phone": "987-654-3210",
+        "address": "456 Oak Ave",
+        "city": "Montreal",
+        "state": "QC",
+        "zipcode": "H3A 2K3"
+      },
+
+    {
         "name": "Rajeev Sharma",
         "dob": "1986-02-12",
         "address": "1001 Noble St Ste 1",
