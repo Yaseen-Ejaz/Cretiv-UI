@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import SubmitButton from './components/SubmitButton';
 import InputField from './components/InputField';
-import ContactTable from './components/ContactTable'; // Import the new ContactTable component
-import contactData from './data/data.json'; // Import the JSON file containing contact data
+import ContactTable from './components/ContactTable';
+import contactData from './data/data.json';
 
 function App() {
   const [filters, setFilters] = useState({
@@ -18,9 +17,9 @@ function App() {
     zipcode: '',
   });
 
-  const [contacts, setContacts] = useState(contactData); // State for storing the list of contacts
-  const [selectedContact, setSelectedContact] = useState(null); // State for storing the selected contact
-  const [searchClicked, setSearchClicked] = useState(false); // State to track button click
+  const [contacts, setContacts] = useState(contactData); // show the list of contacts
+  const [selectedContact, setSelectedContact] = useState(null); // store selected contact
+  const [searchClicked, setSearchClicked] = useState(false); // track button
 
   useEffect(() => {
     if (searchClicked) {
@@ -49,7 +48,7 @@ function App() {
   };
 
   const handleSearch = () => {
-    setSearchClicked(true); // Set to true when the button is clicked
+    setSearchClicked(true); // true when the button is clicked
   };
 
   const handleSelectContact = (contact) => {
